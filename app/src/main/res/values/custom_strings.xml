@@ -15,7 +15,6 @@
   -->
 
 <resources>
-    <string name="chaldea" translatable="false">chaldeaprjkt</string>
     <string name="state_enabled" translatable="false">enabled</string>
     <string name="state_disabled" translatable="false">disabled</string>
     <string name="settings_title">Game Preferences</string>
