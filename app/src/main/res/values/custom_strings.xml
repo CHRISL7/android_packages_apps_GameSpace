@@ -15,6 +15,7 @@
   -->
 
 <resources>
+    <string name="in_game_category_title">In-game</string>
     <string name="state_enabled" translatable="false">enabled</string>
     <string name="state_disabled" translatable="false">disabled</string>
     <string name="settings_title">Game Preferences</string>
